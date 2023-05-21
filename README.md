@@ -13,3 +13,6 @@ Skilled at JAVA language & Spring framework.
 * Yonsei University(Bachelor of Engineering, Computer Seience)
 
 * Ulsan Girl's High
+
+
+![snake gif](https://github.com/developerhongjulee/developerhongjulee/blob/output/github-contribution-grid-snake.svg)
