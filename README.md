@@ -1,6 +1,8 @@
 # Hongju Lee
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wx776654)](https://solved.ac/wx776654)
 ![developerhongjulee's github stats](https://github-readme-stats.vercel.app/api?username=developerhongjulee&show_icons=true&theme=tokyonight)
+[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=314)](https://repomon.kr/repo/314)
 ---
 ### Education
 
