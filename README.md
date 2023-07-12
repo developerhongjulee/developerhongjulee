@@ -5,8 +5,6 @@
 ---
 ### Education
 
-* SSAFY(Samsung Software Academy For Youth)
-
 * Yonsei University(Bachelor of Engineering, Computer Science)
 
 * Ulsan Girl's High
