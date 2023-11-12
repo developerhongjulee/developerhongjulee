@@ -38,5 +38,3 @@
 ![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 
 ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
-![snake gif](https://github.com/developerhongjulee/developerhongjulee/blob/output/github-contribution-grid-snake.svg)
